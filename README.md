@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nak-1&label=Profile%20views&color=0e75b6&style=flat" alt="nak-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nak-1" alt="nak-1" /></a> </p>
-
 - 📫 How to reach me **natsagdorj.tu@gmail.ocom**
 
 - ⚡ Fun fact **polite**
